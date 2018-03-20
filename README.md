@@ -18,10 +18,11 @@
 每道练习题的结果不超过500（考虑到小学生计算能力有限，当时问了郑老师，在老师的提示下，设置了用户输入想要生成结果的范围这一块内容，并进行了异常处理）。
 3》文件解释：
 /src
-ContentToTxt:将结果写入文件
-Main.java:主程序可以从命令行接收参数
-Polish.java：逆波兰表达式
-Randomequal.java：产生等式
-/result.txt:运行后产生的结果
+ContentToTxt:(将结果写入文件)
+Main.java:(主程序可以从命令行接收参数)
+Polish.java:(逆波兰表达式)
+Randomequal.java：(产生等式)
+/result.txt:(运行后产生的结果)
 4》运行方式：
-在命令行输入
+在命令行中运行run.bat文件，所有java文件自动编译运行
+ 
